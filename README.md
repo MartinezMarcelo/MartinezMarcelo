@@ -28,5 +28,5 @@
 
 <div align="center"><h1>Contact</h1></div>
 
-<p align="center"><a href="https://www.linkedin.com/in/marcelo-martinez-it/">LinkedIn</a> | <a href="https://wa.me/+5491126106078?text=Hola!%20I%20encontre%20tu%20numero%20en%20tu%20Perfil%20de%20GitHub">WhatsApp</a> | <a href="mailTo:martinezjmarcelo93@gmail.com">martinezjmarcelo93@gmail.com</a> </p>
+<p align="center"><a href="https://www.linkedin.com/in/marcelo-martinez-it/">LinkedIn</a> | <a href="https://wa.me/+5491126106078?text=Hola!%20encontre%20tu%20numero%20en%20tu%20Perfil%20de%20GitHub">WhatsApp</a> | <a href="mailTo:martinezjmarcelo93@gmail.com">martinezjmarcelo93@gmail.com</a> </p>
 
